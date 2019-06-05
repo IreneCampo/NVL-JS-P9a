@@ -1,0 +1,16 @@
+
+var a= [[1, "hola"], ["buenos", "días"], [5, 6]];
+
+alert (a.length);
+// Nos mostrará que esta matriz tiene tres elementos.
+
+alert (a.lenght [1]);
+//Nos mostrará que este elemento contiene dos elementos.
+
+alert (a [2] [1]);
+//Nos mostrará 6, el segundo elemento de la matriz.
+
+
+
+
+
